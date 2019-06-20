@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "gruvbox theme",
+  "version": "1.0",
+  "theme": {
+    "colors" : {
+      "frame" : [40, 40, 40],
+      "frame_inactive" : [40, 40, 40],
+      "background_tab" : [40, 40, 40],
+      "background_tab_inactive" : [40, 40, 40],
+      "tab_background_text" : [235, 219, 178],
+      "tab_background_text_inactive" : [235, 219, 178],
+
+      "frame_incognito" : [124, 111, 100],
+      "frame_incognito_inactive" : [124, 111, 100],
+      "background_tab_incognito" : [124, 111, 100],
+      "background_tab_incognito_inactive" : [124, 111, 100],
+      "tab_background_text_icognito" : [235, 219, 178],
+      "tab_background_text_incognito_inactive" : [235, 219, 178],
+      
+      "toolbar" : [40, 40, 40],
+      "tab_text" : [181, 118, 20],
+      "bookmark_text" : [235, 219, 178],
+
+      "ntp_background" : [40, 40, 40]
+    },
+    "tints" : {
+        "buttons": [0.33, 0.5, 0.85]
+    }
+  }
+}
